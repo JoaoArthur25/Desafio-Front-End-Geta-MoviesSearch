@@ -1,6 +1,7 @@
 Olá, meu nome é João Arthur e esse é o Movies Search, com ele você pode pesquisar filmes, ver as suas informações principais, como sinopse, avaliação, atores principais, diretor e ano de lançamento.
 Além disso, também é possível adicionar filmes como favoritos na lista na página inicial. 
 A aplicação utiliza tecnologias como o React App, a biblioteca Axios e Styled Components.
+
 Para executar a aplicação faça o seguinte:
 
 Clonar o repositório: para isso, basta acessar a página do  repositório no GitHub e clicar no botão "Clone or download". Isso irá copiar a URL do repositório.
